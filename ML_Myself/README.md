@@ -39,3 +39,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. 장점과 한계 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. 결정트리 하이퍼파라미터 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Feature importances 시각화<br>
+
+## M_07. 앙상블 개요
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 앙상블 개요 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 보팅 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. 배깅<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 부스팅<br>
