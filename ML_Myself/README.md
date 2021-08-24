@@ -27,3 +27,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. 정밀도와 재현율의 Trade off 관계 시각화<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. F1 Score<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. ROC 곡선과 AUC <br>
+
+## M_06. 의사결정나무
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 의사결정 트리 개요 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 불순도 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. 불순도 함수<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 정보획득<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. 일반화<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. 가지치기<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. 가지치기의 비용함수<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. 장점과 한계 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. 결정트리 하이퍼파라미터 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Feature importances 시각화<br>
