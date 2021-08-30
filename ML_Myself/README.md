@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e92a8 ( Add files via upload)
 이 곳은 이수안컴퓨터 연구소, 파이썬 머신러닝 완벽가이드 등과 같은 자료에서 배운 것들을 정리하고 추가하는 곳입니다.
 =======
 이 곳은 이수안컴퓨터 연구소, 파이썬 머신러닝 완벽가이드, 여러 블로그를 참고하여 배운 것들을 정리하고 추가하는 곳입니다.
@@ -35,6 +38,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 정밀도와 재현율의 Trade off<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. 정밀도와 재현율의 Trade off 관계 시각화<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. F1 Score<br>
+<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. ROC 곡선과 AUC <br>
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -94,3 +98,6 @@
 >>>>>>> parent of dc3836d (Revert "Merge branch 'main' of https://github.com/unknown-jun/Machine_Learning into main")
 =======
 >>>>>>> parent of dc3836d (Revert "Merge branch 'main' of https://github.com/unknown-jun/Machine_Learning into main")
+=======
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. ROC 곡선과 AUC <br>
+>>>>>>> parent of f0e92a8 ( Add files via upload)
