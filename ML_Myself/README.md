@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 이 곳은 이수안컴퓨터 연구소, 파이썬 머신러닝 완벽가이드 등과 같은 자료에서 배운 것들을 정리하고 추가하는 곳입니다.
+=======
+이 곳은 이수안컴퓨터 연구소, 파이썬 머신러닝 완벽가이드, 여러 블로그를 참고하여 배운 것들을 정리하고 추가하는 곳입니다.
+>>>>>>> parent of dc3836d (Revert "Merge branch 'main' of https://github.com/unknown-jun/Machine_Learning into main")
 =======
 이 곳은 이수안컴퓨터 연구소, 파이썬 머신러닝 완벽가이드, 여러 블로그를 참고하여 배운 것들을 정리하고 추가하는 곳입니다.
 >>>>>>> parent of dc3836d (Revert "Merge branch 'main' of https://github.com/unknown-jun/Machine_Learning into main")
@@ -32,6 +36,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. 정밀도와 재현율의 Trade off 관계 시각화<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. F1 Score<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. ROC 곡선과 AUC <br>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 이 곳은 이수안컴퓨터 연구소, 파이썬 머신러닝 완벽가이드 등과 같은 자료에서 배운 것들을 정리하고 추가하는 곳입니다.
@@ -65,6 +70,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. ROC 곡선과 AUC <br>
 >>>>>>> e132376e385c13e92ab3d80a9337c166e00b4e67
 =======
+=======
+>>>>>>> parent of dc3836d (Revert "Merge branch 'main' of https://github.com/unknown-jun/Machine_Learning into main")
 
 ## M_06. 의사결정나무
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. 의사결정 트리 개요 <br>
@@ -83,4 +90,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. 보팅 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. 배깅<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. 부스팅<br>
+<<<<<<< HEAD
+>>>>>>> parent of dc3836d (Revert "Merge branch 'main' of https://github.com/unknown-jun/Machine_Learning into main")
+=======
 >>>>>>> parent of dc3836d (Revert "Merge branch 'main' of https://github.com/unknown-jun/Machine_Learning into main")
