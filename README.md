@@ -13,6 +13,7 @@
 5. Classification
 6. Regression
 7. Dimension Reduction
+8. Clustering
 
 ## ML_Lecture
 - 이수안 컴퓨터 연구소 강의를 보며 예제 문제를 타이핑한 저장 공간입니다.
